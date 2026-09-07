@@ -1,0 +1,6 @@
+{
+  "name": "Spanish as a System",
+  "description": "Plataforma de simulación comunicativa interactiva para el aprendizaje del español basada en consecuencias y mundos dinámicos.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
